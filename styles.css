@@ -241,7 +241,7 @@ body {
 
 @media (max-width: 768px) {
     .header .nav {
-        font-size: 14px; /* Even smaller font for mobile screens */
+        font-size: 12px; /* Even smaller font for mobile screens */
     }
 
     .header .nav a {
