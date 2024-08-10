@@ -248,3 +248,9 @@ body {
         margin: 0 5px; /* Adjust margin for smaller screens */
     }
 }
+
+@media (max-width: 768px) {
+    .intro h1 {
+        font-size: 32px; /* Reduced size for smaller screens */
+    }
+}
